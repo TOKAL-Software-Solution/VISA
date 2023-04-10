@@ -1,3 +1,3 @@
 # deploying a python web application 
-echo "Hello worl"
-python("Hello World") 
+#echo "Hello worl"
+print('Hello World') 
