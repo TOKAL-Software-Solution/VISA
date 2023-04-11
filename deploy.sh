@@ -4,4 +4,7 @@ Deploy in the dev env
 This is an adiitional changes made
 deployment 5
 Deployment 4
-Deploy to staging 
+Deploy to staging
+echo good job my friend!
+Tested and accepted
+
