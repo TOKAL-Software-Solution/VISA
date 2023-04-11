@@ -7,4 +7,3 @@ Deployment 4
 Deploy to staging
 echo good job my friend!
 Tested and accepted
-
